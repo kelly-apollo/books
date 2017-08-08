@@ -11,6 +11,7 @@
 * Zen and the Art of Motorcycle Maintenance
 * 人月神话
 * 谈美
+* 文艺心理学
 
 
 ## 2016
