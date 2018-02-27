@@ -1,5 +1,9 @@
 # books
 
+## 2018
+
+* Thinking, Fast and Slow
+
 ## 2017
 
 * 月亮和六便士
