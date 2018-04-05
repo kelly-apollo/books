@@ -3,6 +3,7 @@
 ## 2018
 
 * Thinking, Fast and Slow
+* 代码整洁之道:程序员的职业素养
 
 ## 2017
 
