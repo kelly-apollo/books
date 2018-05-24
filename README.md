@@ -2,11 +2,11 @@
 
 ## 2018
 
-1. Thinking, Fast and Slow
-1. 代码整洁之道:程序员的职业素养
-1. 知中一本读懂！山海经
-1. 蒋勋说唐诗
-1. 代码整洁之道
+1. Thinking, Fast and Slow，by Daniel Kahneman，2011-10-25
+1. 代码整洁之道:程序员的职业素养，by Robert C.Martin，2016-9-1
+1. 知中一本读懂！山海经，by 罗威尔，2017-4-1
+1. 蒋勋说唐诗，by 蒋勋，2012-1-16
+1. 代码整洁之道，by Robert C.Martin，2010-1-1
 
 ## 2017
 
