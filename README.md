@@ -13,6 +13,7 @@
 1. 巴菲特致股东的信，by （美）沃伦·巴菲特 / （美）查理·芒格 /（美）劳伦斯·坎宁安  2017-9-1
 1. 小小的死亡之歌，by 费德里科·加西亚·洛尔迦 2016-10
 1. 微服务设计，by Sam Newman 2016-5
+1. The 7 Habits of Highly Effective People， by Stephen R. Covey，2004-11-09
 
 ## 2017
 
