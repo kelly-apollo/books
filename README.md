@@ -14,6 +14,7 @@
 1. 小小的死亡之歌，by 费德里科·加西亚·洛尔迦，2016-10
 1. 微服务设计，by Sam Newman，2016-05
 1. The 7 Habits of Highly Effective People， by Stephen R. Covey，2004-11-09
+1. 新月集·飞鸟集，by （印度） 泰戈尔，翻译 by 郑振铎，2005-01
 
 ## 2017
 
