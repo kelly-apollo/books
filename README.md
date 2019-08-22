@@ -18,6 +18,8 @@
 1. Beginning iOS 12 Programming with Swift，by AppCoda
 1. 从 0 到 1，by（美）彼得·蒂尔 / 布莱克·马斯特斯 ，2015
 1. 旅行的艺术，by（英）阿兰·德波顿，2002
+1. 简单统计学，by（美）加里·史密斯，2014  
+
 
 ## 2018
 
