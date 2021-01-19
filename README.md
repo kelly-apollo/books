@@ -2,7 +2,7 @@
 
 ## 2021
 
-1. 为什么伤心的时候听慢歌，by（加）Daniel J. Levitin，2008
+1. 为什么伤心的时候听慢歌，by（加）Daniel Levitin，2008
 
 ## 2020
 
